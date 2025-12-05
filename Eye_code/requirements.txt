@@ -1,0 +1,7 @@
+mediapipe==0.10.21
+opencv-python==4.8.0.76
+numpy==1.24.3
+pyautogui==0.9.54
+pynput==1.7.6
+scipy==1.11.2
+psutil>=5.9.0

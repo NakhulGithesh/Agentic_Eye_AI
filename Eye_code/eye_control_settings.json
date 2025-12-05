@@ -1,0 +1,7 @@
+{
+  "smoothing_factor": 0.5,
+  "blink_threshold": 0.22,
+  "scroll_threshold": 0.03,
+  "show_overlay": true,
+  "debug_mode": true
+}
