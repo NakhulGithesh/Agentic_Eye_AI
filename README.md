@@ -1,8 +1,8 @@
-# Agentic Eye AI - Phone Mirror with Eye Tracking Control
+# AgenticEye-AI - Phone Mirror with Eye Tracking Control
 
 ## 🎯 Overview
 
-Agentic Eye AI is an innovative accessibility application that combines Android screen mirroring with advanced eye tracking technology. The system allows users to control their Android devices using natural eye movements, making technology more accessible for individuals with motor disabilities or those who prefer hands-free interaction.
+AgenticEye-AI is an innovative accessibility application that combines Android screen mirroring with advanced eye tracking technology. The system allows users to control their Android devices using natural eye movements, making technology more accessible for individuals with motor disabilities or those who prefer hands-free interaction.
 
 The application provides a comprehensive control interface that mirrors your Android device's screen and enables precise eye-tracking based navigation and interaction.
 
